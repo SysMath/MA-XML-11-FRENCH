@@ -27,7 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Partager avec</string>
   <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
   <string name="abc_toolbar_collapse_description">Réduire</string>
-  <string name="advanced_mode">Paramètres additionnels</string>
+  <string name="advanced_mode">Paramètres avancés</string>
   <string name="app_name">Paramètres</string>
   <string name="application_sound">"Notifications d'application"</string>
   <string name="back">Retour</string>
